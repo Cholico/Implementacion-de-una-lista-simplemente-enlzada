@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1661193578 source:c:\users\alexa\onedrive\documentos\algoritmia\aerropuerto\src\pasajero.cpp
+	"Pasajero.h"
+
+1661193496 c:\users\alexa\onedrive\documentos\algoritmia\aerropuerto\include\pasajero.h
+	<iostream>
+	<string>
+
+1661408619 source:c:\users\alexa\onedrive\documentos\algoritmia\aerropuerto\main.cpp
+	<iostream>
+	"Administador.h"
+
+1661408818 c:\users\alexa\onedrive\documentos\algoritmia\aerropuerto\include\vuelo.h
+	<iostream>
+	<string>
+	<istream>
+	"LSL.h"
+	"Pasajero.h"
+	<stdlib.h>
+
+1661409573 source:c:\users\alexa\onedrive\documentos\algoritmia\aerropuerto\src\vuelo.cpp
+	"Vuelo.h"
+
+1661408745 source:c:\users\alexa\onedrive\documentos\algoritmia\aerropuerto\src\administador.cpp
+	"Administador.h"
+
+1661406952 c:\users\alexa\onedrive\documentos\algoritmia\aerropuerto\include\administador.h
+	<iostream>
+	"Vuelo.h"
+	"LSL.h"
+	<string>
+	<stdlib.h>
+
+1661405973 c:\users\alexa\onedrive\documentos\algoritmia\aerropuerto\include\lsl.h
+	<iostream>
+	<stdexcept>
+	<memory>
+
+1661408619 source:c:\users\alexa\downloads\algoritmia\aeropuerto\main.cpp
+	<iostream>
+	"Administador.h"
+
+1661406952 c:\users\alexa\downloads\algoritmia\aeropuerto\include\administador.h
+	<iostream>
+	"Vuelo.h"
+	"LSL.h"
+	<string>
+	<stdlib.h>
+
+1661408818 c:\users\alexa\downloads\algoritmia\aeropuerto\include\vuelo.h
+	<iostream>
+	<string>
+	<istream>
+	"LSL.h"
+	"Pasajero.h"
+	<stdlib.h>
+
+1661405973 c:\users\alexa\downloads\algoritmia\aeropuerto\include\lsl.h
+	<iostream>
+	<stdexcept>
+	<memory>
+
+1661193496 c:\users\alexa\downloads\algoritmia\aeropuerto\include\pasajero.h
+	<iostream>
+	<string>
+
+1661408745 source:c:\users\alexa\downloads\algoritmia\aeropuerto\src\administador.cpp
+	"Administador.h"
+
+1661193578 source:c:\users\alexa\downloads\algoritmia\aeropuerto\src\pasajero.cpp
+	"Pasajero.h"
+
